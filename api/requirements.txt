@@ -1,0 +1,7 @@
+flask
+pandas
+openai
+spacy
+geopy
+flask_cors
+python-dotenv
