@@ -1,0 +1,2 @@
+ Incentives based Design for onboarding Legal Service Providers such as Advocates, Arbitrators, Mediators, Notaries, Document Writers, etc on eMarket Place for extending Legal Services to Citizens in India
+This approach combines user-friendly features, AI-driven matchmaking, incentives, gamification, and cryptocurrency to create a transparent and efficient legal eMarketplace that benefits both clients and legal service providers.
